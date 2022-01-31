@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fc23a20-2cc6-481f-8261-2c1feeacaf44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jxUgzFtDEH4pcpI6xjV3YIMZEg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="chrome" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fc23a20-2cc6-481f-8261-2c1feeacaf44" name="Default Changelist" comment="" />
+      <created>1604745351609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604745351609</updated>
+      <workItem from="1604745352656" duration="21702000" />
+      <workItem from="1604831701225" duration="3230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1500" y="519" key="run.anything.popup" timestamp="1604746640334">
+      <screen x="0" y="30" width="3840" height="2130" />
+    </state>
+    <state x="1500" y="519" key="run.anything.popup/0.30.3840.2130@0.30.3840.2130" timestamp="1604746640334" />
+    <state x="2171" y="524" width="840" height="1034" key="search.everywhere.popup" timestamp="1604828372644">
+      <screen x="0" y="30" width="3840" height="2130" />
+    </state>
+    <state x="2171" y="524" width="840" height="1034" key="search.everywhere.popup/0.30.3840.2130@0.30.3840.2130" timestamp="1604828372644" />
+  </component>
+</project>
